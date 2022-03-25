@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Portal do Aluno</string>
+    <string name="textPage1">Ao virtual Board. Seu local de estudos conectado</string>
+    <string name="textPage2">Com o virtual board você pode assistir todas as suas aulas</string>
+    <string name="textPage3">Acesse todos os seus materiais de aula</string>
+    <string name="textPage4">Compartilhe conhecimento com seus colegas</string>
+    <string name="title1">BEM VINDO</string>
+    <string name="title2">ESTUDE</string>
+    <string name="title3">ACESSE</string>
+    <string name="title4">COMPARTILHE</string>
+</resources>
